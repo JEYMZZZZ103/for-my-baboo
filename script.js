@@ -81,6 +81,8 @@ No matter how many days pass, my heart will always choose you.
 This is the hardest decision I've ever made, but I think it's for the best. 
 Mahal na mahal po kita. I will always love you, and I will miss you po. 🩷
 
+- August
+
 `;
 
 let index = 0;
