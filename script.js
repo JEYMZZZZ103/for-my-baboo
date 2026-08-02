@@ -58,22 +58,23 @@ const message = `
 
 Hello, baboo.
 
-No matter how many days pass, 
-my heart will always choose you. 
+No matter how many days pass, my heart will always choose you. 
 But I think it's better for me to let you go na, hahaha. 
 Kasi I feel like parang napipilitan ka na lang sa'kin, and ayaw ko naman na ganun ka.
-
 Napansin ko rin na nagbago ka na. Siguro nga hindi ka na interesado sa'kin. 
 Nasasaktan ako, pero tatanggapin ko na lang kasi 'yun ang nararamdaman ko every time na nag-uusap tayo.
 
 Pero huwag mong kakalimutan na mahal na mahal kita, hahaha. Sobra. 
 Sana maging masaya ka palagi, at huwag mong i-stress ang sarili mo sa mga bagay-bagay. 
 Stay healthy and beautiful.
-
 Pero baka hanggang dito na lang din ako. 
 I know na sinabi ko na maghihintay ako, pero paano ako maghihintay kung ganito naman ang pinaparamdam at pinapakita mo sa'kin?
-this is the hardest decision I've ever made, but I think it's for the best.
-Anyways, mahal na mahal po kita. I will miss you poooo. 🩷
+Pero di naman kita masisisi kasi sa simula palang kasalanan ko na talaga.
+
+Sorry dahil nagawa kong sabihin sayo lahat yun, gusto ko lang sabihin na pinagsisisihan ko lahat ng nagawa kong mali sayo.
+Gusto ko pa sanang bumalik sa dating tayo pero mukhang ayaw mo na sa'kin, pero tinatanggap ko naman na yun.
+This is the hardest decision I've ever made, but I think it's for the best.
+Anyways, mahal na mahal po kita. I will always love you, and I will miss you po. 🩷
 
 `;
 
