@@ -68,8 +68,8 @@ Sobrang nasasaktan lang ako sa part na I still need to push myself to you hoping
 But I was wrong, mas lalo lang pala akong nasasaktan. 
 
 I know na sinabi ko na maghihintay ako, pero paano ako maghihintay kung ganito naman ang pinaparamdam at pinapakita mo sa'kin? 
-Hindi naman kita masisisi kasi sa simula palang kasalanan ko na talaga. Sorry dahil nagawa kong sabihin sayo lahat yun, 
-gusto ko lang sabihin na pinagsisisihan ko lahat ng nagawa kong mali sayo.
+Hindi naman kita masisisi kasi sa simula palang kasalanan ko na talaga. Sorry dahil nagawa kong sabihin sayo lahat yun, gusto ko lang sabihin na 
+pinagsisisihan ko lahat ng nagawa kong mali sayo.
 
 I'm not blaming you Baboo just because you've change, I know it was all my fault all along. 
 But I wanted you to know that I love you so much that I can sacrifice all just to be with you again.
