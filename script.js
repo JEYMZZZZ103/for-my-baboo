@@ -56,25 +56,30 @@ envelope.addEventListener("click", () => {
 
 const message = `
 
-Hello, baboo.
+Hi, Baboo!
 
-No matter how many days pass, my heart will always choose you. 
-But I think it's better for me to let you go na, hahaha. 
-Kasi I feel like parang napipilitan ka na lang sa'kin, and ayaw ko naman na ganun ka.
-Napansin ko rin na nagbago ka na. Siguro nga hindi ka na interesado sa'kin. 
-Nasasaktan ako, pero tatanggapin ko na lang kasi 'yun ang nararamdaman ko every time na nag-uusap tayo.
+We have came to this far, but I guess, things really needs to end and let go. Entering into your life was the best decision I have made. 
+Your beautiful face was once my fuel. Your presence was my favorite of mine and your love and care towards me was once my serenity. 
+But, a lot of things change that eagers me let go of things. I have thinking this for the last few days, and I think this is the right time. 
 
-Pero huwag mong kakalimutan na mahal na mahal kita, hahaha. Sobra. 
-Sana maging masaya ka palagi, at huwag mong i-stress ang sarili mo sa mga bagay-bagay. 
-Stay healthy and beautiful.
-Pero baka hanggang dito na lang din ako. 
-I know na sinabi ko na maghihintay ako, pero paano ako maghihintay kung ganito naman ang pinaparamdam at pinapakita mo sa'kin?
-Pero di naman kita masisisi kasi sa simula palang kasalanan ko na talaga.
+Sobrang naapektuhan ako sa actions na pinapakita mo at kung paano ka makipag-communicate saakin.
+Alam ko sa sarili ko na hindi ka na interesado saakin pero nagiging indenial ako. 
+Sobrang nasasaktan lang ako sa part na I still need to push myself to you hoping that things will get better and mababalik tayo sa dati.
+But I was wrong, mas lalo lang pala akong nasasaktan. 
 
-Sorry dahil nagawa kong sabihin sayo lahat yun, gusto ko lang sabihin na pinagsisisihan ko lahat ng nagawa kong mali sayo.
-Gusto ko pa sanang bumalik sa dating tayo pero mukhang ayaw mo na sa'kin, pero tinatanggap ko naman na yun.
-This is the hardest decision I've ever made, but I think it's for the best.
-Anyways, mahal na mahal po kita. I will always love you, and I will miss you po. 🩷
+I know na sinabi ko na maghihintay ako, pero paano ako maghihintay kung ganito naman ang pinaparamdam at pinapakita mo sa'kin? 
+Hindi naman kita masisisi kasi sa simula palang kasalanan ko na talaga. Sorry dahil nagawa kong sabihin sayo lahat yun, 
+gusto ko lang sabihin na pinagsisisihan ko lahat ng nagawa kong mali sayo.
+
+I'm not blaming you Baboo just because you've change, I know it was all my fault all along. 
+But I wanted you to know that I love you so much that I can sacrifice all just to be with you again.
+But, that just life and a part of loving someone. Sometimes we just need to end things for the better. For my last act of love, I will not bother you anymore. 
+I want you to be strong. Lagi mong tatandaan na nandito lang ako susuportahan kita palagi. Sana marating mo mga pinapangarap mo. 
+I hope someone will love you more than what I can give. I will always your silent cheerleader in your every battle. 
+
+No matter how many days pass, my heart will always choose you.
+This is the hardest decision I've ever made, but I think it's for the best. 
+Mahal na mahal po kita. I will always love you, and I will miss you po. 🩷
 
 `;
 
